@@ -1,0 +1,54 @@
+.navbar-brand{
+    padding: 1px 150px;
+}
+.nav-item{
+    font-size: 25px;
+}
+
+.grid1{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.texto1{
+    margin: 60px;
+}
+.titulo1{
+    text-align: center;
+}
+
+.p1{
+    text-align: justify;
+}
+
+.foto1{
+    margin-top: 60px;
+    text-align: center;
+}
+
+.container2{
+    display: flex;
+    justify-content: center;
+}
+.containerTexto{
+    height: 500px;
+    width: 900px;
+    background-image: url('../imagens/Fotos de Bolos/imagem2.png');
+    background-size: 100%;
+    border-radius: 20px;
+    padding: 30px;
+}
+
+.texto2{
+    height: 200px;
+    width: 500px;
+    padding: 50px;
+}
+
+.texto3{
+    text-align: center;
+    text-decoration: underline;
+    margin: 50px;
+
+
+}
