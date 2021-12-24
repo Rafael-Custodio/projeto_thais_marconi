@@ -1,0 +1,20 @@
+.flexSobre{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 100px;   
+}
+
+.item1{
+    flex: 2;/*dimensiona o tamanho/espaço do campo*/
+    margin-right: 60px;
+    text-align: justify;
+}
+
+.item2{
+    flex: 1;/*dimensiona o tamanho/espaço do campo*/
+}
+
+.item22{
+    border-radius: 10px;
+}
+
