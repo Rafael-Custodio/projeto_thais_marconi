@@ -14,13 +14,9 @@ main{
 }
     
 
-.logoWhats{
+.logoWhats, .logoInsta{
    font-size: 25px;
-}
-
-.logoInsta{
-    font-size: 25px;
-}
+   }
 
 .logoInsta a{
     text-decoration: none;
